@@ -1,1 +1,1 @@
-# matplot
+I  have merged mouse_data, study_result_data by internal merge.I find initially i had 1893 rows for mouse after duplicating 1888 rows.On identifying unique number of mice , number of mice is 249. Still data has to be cleaned.
