@@ -1,11 +1,11 @@
 
                       PYMACEUTICALS CAPOMULIN EFFECTS ON TUMOUR CELL PROGRESSION
 
-To start the study mouse_df, study_df were merged and the duplicate columns were dropped. In the summary statistics, normal test was conducted with 50 samples, mean, median, and mode  of Tumor volume was calculated as 50.44, 48,93 and 45.00.P value is 0.37< 0.5, so it forms a normal distribution and it means Null hypothesis is rejected. By group by and aggregation method mean, median, mode, S.D, Var, SEM was studied for tumour cells.
+To start the study  mouse_df, study_df were merged and the duplicate columns were dropped. In the summary statistics, normal test was conducted with 50 samples, mean, median, and mode  of Tumor volume was calculated as 50.44, 48,93 and 45.00.P value is 0.37< 0.5, so it forms a normal distribution and it means Null hypothesis is rejected. By group by and aggregation method mean, median, mode, S.D, Var, SEM was studied for tumour cells.
 
 Trials per Drug Regimen was studied in barchart by pandas and pyplot method. Capomulin and Ramicane has more than 250 trials. Propriva has less than 150 trials.
 
-Pie chart studies show Distribution of male is more than female.
+Pie chart studies shows the Distribution of male is more than female.
 
 Line and scatter plots predict that the tumour volume is less in capmolin mice, size of the tumour cell is 50 mm3, which is less than other drugs.
 
